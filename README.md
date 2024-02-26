@@ -29,7 +29,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Digital Fornesics & Incident Response         | SOC Automation Lab|
 | Assets, Threats, and Vulnerabilities | SOC Automation Lab|
-| TryHackMe catch the flag | SOC Automation Lab|
+| TryHackMe catch the flag | <a href="https://github.com/MohebAwichewi/TryHackMe-CTFs/blob/main/README.md"> Tryhackme challenge|
 
 ## Tools
 ### Network
