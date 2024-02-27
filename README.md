@@ -24,7 +24,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/MohebAwichewi/Detection-lab">Detection Lab</a>|
 | Network Hacking | <a href="https://github.com/MohebAwichewi/Wpa-Wpa2-Wifi-Hacking">Wpa-wpa2-wifi-hacking</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Snort</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/MohebAwichewi/Snort">Snort</a>|
 | Automate Cybersecurity Tasks with Python       | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Digital Fornesics & Incident Response         | SOC Automation Lab|
